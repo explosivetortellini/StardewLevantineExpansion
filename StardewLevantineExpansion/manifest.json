@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Stardew Levantine Expansion",
+  "Author": "explosivetortellini",
+  "Version": "1.0.0",
+  "Description": "A mod which adds many crops, forageables, and recipes commonly found in Lebanon, Palestine, Syria, and Jordan.",
+  "UniqueID": "explosivetortellini.StardewLevantineExpansion",
+  "EntryDll": "StardewLevantineExpansion.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
